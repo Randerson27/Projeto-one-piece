@@ -6,3 +6,16 @@ ul li a {
     margin:0 0 0 8px;
 
 }
+
+#rodape-center p{
+    text-align:center;
+}
+
+
+#secao-video p, iframe{
+    padding: 50px;
+}
+
+header a{
+    color: white;
+}
