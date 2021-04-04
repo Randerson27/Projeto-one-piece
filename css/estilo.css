@@ -14,6 +14,11 @@ ul li a {
 
 #secao-video p, iframe{
     padding: 50px;
+    
+}
+
+#secao-video p {
+    color: white;
 }
 
 header a{
